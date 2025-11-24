@@ -1,0 +1,1 @@
+Projekt prostej gry w kółko i krzyżyk napisanej w Unity.
