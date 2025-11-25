@@ -2,7 +2,7 @@
 
 ## Skład zespołu
 * Jakub
-* ???(uzupełnić)
+* Filip Kaczmarek
 
 ## Cel, założenia początkowe gry
 Uzupełnić cel i założenia
