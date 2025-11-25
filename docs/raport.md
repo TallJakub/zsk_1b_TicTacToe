@@ -4,7 +4,6 @@
 
 - Jakub
 - Filip Kaczmarek
-  adadadadad
 
 ## Cel, założenia początkowe gry
 
